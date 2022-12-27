@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/282/A
+
 x = int(input())
 count = 0
 
@@ -8,3 +10,7 @@ for i in range(x):
     else:
         count = count + 1
 print(count)
+
+'''
+
+'''
