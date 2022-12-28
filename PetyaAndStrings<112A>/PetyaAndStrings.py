@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/112/A
+
 x = input().upper()
 y = input().upper()
 
@@ -9,3 +11,6 @@ else:
     print('0')
 
 
+'''
+
+'''
