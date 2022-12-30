@@ -8,7 +8,6 @@ if x >= 26 and len(y) == 26:
 else:
     print('NO')
 
-
 '''
 Learnt a new word: A Pangram is a sentance or word that includes every single letter in the alphabet.
 This seemed an obvious task for a set seeing as they can only include distinct values.

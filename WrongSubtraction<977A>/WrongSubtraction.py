@@ -15,4 +15,3 @@ Next uses a for loop to loop over the amount of subtractions we are going to be 
 Finally we check the two conditions stated in the breif and execute the subtraction accordingly.
 Printing the end value after y amount of subtractions to our original number.
 '''
-
