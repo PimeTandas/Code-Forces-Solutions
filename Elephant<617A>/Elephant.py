@@ -22,5 +22,9 @@ while x != 0:
 print(count)
 
 '''
-
+This solution begins with taking an int input and assigning it to a variable.
+We use a while loop to reduce x (the target) before we make a reduction we want to check what
+the largest reduction we can make is luckily there are only 5 values we need to check for so we 
+just used 5 for loops increasing the count, which represents steps to get to zero. Prining it at
+the end.
 '''
