@@ -26,4 +26,3 @@ itteration, if it is it will not add another 'that' to the list. Finally after t
 we append 'it' to the list which marks it as compleated. Finally we join and print the list as 
 required par the brief.
 '''
-
